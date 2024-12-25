@@ -1,5 +1,5 @@
 # AI-K-Nearest-Neighbors.Algorithm.F.Distance.
-
+Learn about Algorithm K-Nearest Neighbors and calculate distance function.
   <br/>
 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="bootstrap" width="40" height="40"/> </a>
